@@ -3,4 +3,4 @@
 - 🌱 I’m currently studying
 
 # Skills #
-- 🧑‍💻 FiveM Developer (Lua, HTML, CSS)
+- 🧑‍💻 FiveM Developer (Lua, HTML, CSS, JS)
